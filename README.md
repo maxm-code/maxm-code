@@ -1,6 +1,10 @@
 ## Hi there 👋
 I'm Max and this is my GutHub account!
 
+- Aerospace engineering major at the University of Oklahoma (expected spring '27)
+- GNC lead for the '26 - '27 Boomer Rocket Team 
+
+
 <!--
 **maxm-code/maxm-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
